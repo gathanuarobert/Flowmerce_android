@@ -1,0 +1,29 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+.build/
+.externalNativeBuild/
+
+# Android Studio / VSCode / IntelliJ
+.idea/
+*.iml
+.vscode/
+*.hprof
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+#Logs
+*.log
+
+#OS files
+.DS_Store
+Thumbs.db
